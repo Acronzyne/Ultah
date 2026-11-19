@@ -1,0 +1,8 @@
+{
+  "name": "Kejutan Ulang Tahun — Album & Ucapan",
+  "description": "Website kejutan ulang tahun interaktif untuk mengabadikan foto kenangan, menulis doa dan ucapan, serta merayakan momen spesial bersama.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
